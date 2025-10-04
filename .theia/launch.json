@@ -54,6 +54,15 @@
             "scriptFile": "ЭкспоненциальнаяСложность.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "ФакториальнаяСложность.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ФакториальнаяСложность.sbsl",
+            "args": [],
+            "method": "Скрипт"
         }
     ]
 }
