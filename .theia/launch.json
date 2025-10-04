@@ -36,6 +36,15 @@
             "scriptFile": "ЛинейноЛогарифмическая.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "Квадратичная.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Квадратичная.sbsl",
+            "args": [],
+            "method": "Скрипт"
         }
     ]
 }
