@@ -45,6 +45,15 @@
             "scriptFile": "Квадратичная.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "ЭкспоненциальнаяСложность.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ЭкспоненциальнаяСложность.sbsl",
+            "args": [],
+            "method": "Скрипт"
         }
     ]
 }
