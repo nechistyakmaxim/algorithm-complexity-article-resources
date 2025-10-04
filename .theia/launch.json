@@ -18,6 +18,15 @@
             "scriptFile": "ЛогарифмическаяСложность.sbsl",
             "args": [],
             "method": "ЛогарифмическаяCложность"
+        },
+        {
+            "type": "sbsl",
+            "name": "ЛинейнаяСложность.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ЛинейнаяСложность.sbsl",
+            "args": [],
+            "method": "Скрипт"
         }
     ]
 }
