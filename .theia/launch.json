@@ -27,6 +27,15 @@
             "scriptFile": "ЛинейнаяСложность.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "ЛинейноЛогарифмическая.sbsl#Скрипт",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ЛинейноЛогарифмическая.sbsl",
+            "args": [],
+            "method": "Скрипт"
         }
     ]
 }
