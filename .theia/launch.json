@@ -9,6 +9,15 @@
             "scriptFile": "КонстантнаяCложность.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "ЛогарифмическаяСложность.sbsl#ЛогарифмическаяCложность",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "ЛогарифмическаяСложность.sbsl",
+            "args": [],
+            "method": "ЛогарифмическаяCложность"
         }
     ]
 }
